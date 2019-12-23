@@ -1,6 +1,6 @@
 import Node from "./Node";
 
-export default function findAliveSolder(num) {
+export default function findAliveSoldier(num) {
     if (num === 1) {
         return 1;
     }

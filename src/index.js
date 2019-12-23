@@ -1,5 +1,5 @@
 import prompt from 'prompt';
-import findAliveSolder from './createSolder';
+import findAliveSolder from './createSoldier';
 
 const schema = {
     properties: {
